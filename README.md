@@ -1,2 +1,3 @@
 # crazyhs
-the repostitory of daily studying and summary,sometimes push some codes up to it
+Do something really useful for finding work.
+Come on!Boy!
